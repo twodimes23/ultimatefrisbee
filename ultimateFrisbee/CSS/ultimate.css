@@ -1,0 +1,54 @@
+body {
+  margin: 5px;
+  padding: 10px;
+  background-color: #64a04c;
+}
+header {
+  background-color: #d22323;
+  background-image: url("/frisbeeimgs/512px-Ultimate_Frisbee_Colorado_Cup_2005.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  word-spacing: 15px;
+}
+h1 {
+  color: #06147d;
+  font-size: 50px;
+}
+nav a {
+  font-size: 30px;
+  display: inline-block;
+  background-color: #ade498;
+  border: 2px solid #089a5a;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.active,
+.tabs:hover {
+  background-color: #6495ed;
+  color: #fff8dc;
+}
+
+img {
+  display: block;
+  float: left;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  clear: both;
+  background-color: #c6d245;
+  padding: 12px;
+  border: #d22323 solid 2px;
+}
+.left {
+  float: left;
+}
+
+.right {
+  display: inline;
+}
+ul {
+  list-style-position: inside;
+}

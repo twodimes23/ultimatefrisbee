@@ -1,0 +1,27 @@
+header {
+  background-color: #0c5234;
+  margin: 25px;
+  padding: none;
+}
+h1 {
+  color: #ffff;
+
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(33, 9, 93);
+  text-align: left;
+}
+section {
+  background-color: rgb(59, 118, 82);
+}
+a {
+  background-color: rgb(73, 77, 128);
+  color: rgb(9, 255, 148);
+  text-align: center;
+}
+img {
+  display: none;
+}
